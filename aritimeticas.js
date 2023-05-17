@@ -19,3 +19,18 @@ resultado = x / y
 console.log(`A divisão de +/y é ${resultado}`)
 mensagem = "A divisão de " + x + " e " + y + " é " + resultado
 console.log(mensagem)
+
+// parte 2
+
+x = 12
+x = x + 3
+console.log(x)
+
+x += 3
+console.log(x)
+
+x -= 3
+console.log(x)
+
+x *= 3
+console.log(x)
